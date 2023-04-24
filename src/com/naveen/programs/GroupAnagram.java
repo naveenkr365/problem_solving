@@ -25,7 +25,7 @@ public class GroupAnagram {
                 mp.put(key,lst);
             }
             else {
-                lst.add[]
+                //lst.add[];
             }
 
 
